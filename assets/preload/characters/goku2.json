@@ -1,0 +1,21 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [10, 0],
+      "anim": "inicio",
+      "fps": 24,
+      "name": "goku inicio",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/goku2",
+  "position": [0, 0],
+  "healthicon": "goku",
+  "flip_x": true,
+  "healthbar_colors": [255, 204, 0],
+  "camera_position": [120, 30],
+  "sing_duration": 4,
+  "scale": 1
+}

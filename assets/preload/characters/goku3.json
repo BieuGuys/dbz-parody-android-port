@@ -1,0 +1,21 @@
+{
+  "animations": [
+    {
+      "offsets": [116, -36],
+      "indices": [],
+      "fps": 24,
+      "anim": "rola",
+      "loop": false,
+      "name": "buenarola"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/goku3",
+  "position": [0, 0],
+  "healthicon": "goku",
+  "flip_x": true,
+  "healthbar_colors": [255, 204, 0],
+  "camera_position": [120, 30],
+  "sing_duration": 4,
+  "scale": 1
+}
